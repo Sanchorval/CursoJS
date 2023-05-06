@@ -1,0 +1,2 @@
+ Este texto es de práctica de la primera 
+ clase del curso de programación del patico
